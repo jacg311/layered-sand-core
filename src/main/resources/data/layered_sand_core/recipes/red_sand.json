@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "P P",
+        "PPP"
+    ],
+    "key": {
+        "P": {
+            "item": "layered_sand_core:red_sand_pile"
+        }
+    },
+    "result": {
+        "item": "minecraft:red_sand"
+    }
+}

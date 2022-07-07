@@ -1,0 +1,15 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "net.jacg.layered_sand_core.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "mixins": [
+        "BlockMixin",
+        "BlocksMixin",
+        "FallingBlockMixin",
+        "SandBlockMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+  }
+}
